@@ -24,7 +24,7 @@ constraint and not imposing the sparsity constraint. As we can see, imposing the
 
 <div class="row">
   <div class="column">
-    <img src="/assets/low_rank/matrix.png">
+    <img src="matrix.png">
   </div>
 </div>
 
